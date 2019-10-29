@@ -1,0 +1,21 @@
+.navs {
+	background-color: white;
+	width: 40%;
+	padding: 20px;
+}
+
+.navs a {
+	margin: 10px;
+}
+
+.navs a:hover {
+	text-decoration: none;
+}
+
+.form-body {
+	padding: 40px;
+}
+
+.form-body input {
+	text-align: center;
+}
